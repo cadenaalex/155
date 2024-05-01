@@ -1,0 +1,83 @@
+header {
+    border: 1px solid black;
+}
+
+div {
+    text-align: right;
+    color: blue;
+    padding: 10px;
+    width: 50%;
+    display: inline;
+}
+div.menu {
+    margin-left: 470px;
+}
+
+p {
+    color: red;
+    text-align: left;
+}
+
+.descripcion {
+    color: blue;
+}
+
+a {
+    text-align: right;
+    display: inline;
+}
+
+img {
+    height: 50px;
+    width: 50px;
+}
+
+.ctv {
+    height: 300px;
+    width: 100%;
+}
+
+.la {
+    height: 20%;
+    width: 20%;
+    margin-right: 20px;
+}
+
+.le {
+    height: 20%;
+    width: 20%;
+    margin-right: 20px;
+}
+
+.li {
+    height: 20%;
+    width: 20%;
+    margin-right: 20px;
+}
+
+.lo {
+    height: 20%;
+    width: 20%;
+    margin-right: 20px;
+}
+
+.lu {
+    height: 20%;
+    width: 20%;
+    margin-right: 20px;
+}
+.ña{
+    height: 20%;
+    width: 20%;
+    margin-right: 20px;
+}
+.ñe{
+    height: 20%;
+    width: 20%;
+    margin-right: 20px;
+}
+.ñi{
+    height: 20%;
+    width: 20%;
+    margin-right: 20px;
+}
